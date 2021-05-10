@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/th20988/ros_ws/devel/include/**",
+        "/home/th20988/ros_ws/src/beginner_tutorials/include/**",
+        "/home/th20988/ros_ws/src/py2_client/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
